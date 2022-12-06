@@ -1,6 +1,11 @@
 #
 <h1>Challenge 2 </h1>
 
+[Github Repo](https://github.com/damianfearon/challenge2)</br>
+[HTML](https://github.com/damianfearon/challenge2/blob/main/index.html)</br>
+[CSS](https://github.com/damianfearon/challenge2/tree/main/css)</br>
+[Website](https://damianfearon.github.io/challenge2/)
+
 Challenge 2 requires students to create a portfolio. </br>
 <br> A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies. </br>
 
@@ -17,5 +22,6 @@ When presented with the your first application then that application's image sho
 <li>When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport. </li>
 
 <h2>Wireframe</h2>
-<img scr="images\wireframe.png">
+<img scr="images\wireframe.png alt="Wireframe">
+
 
