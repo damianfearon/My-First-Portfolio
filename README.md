@@ -22,6 +22,11 @@ When presented with the your first application then that application's image sho
 <li>When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport. </li>
 
 <h2>Wireframe</h2>
-<img scr="images\wireframe.png" alt="Wireframe">
+
+<img
+  src="images\wireframe.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
